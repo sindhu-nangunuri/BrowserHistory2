@@ -1,0 +1,35 @@
+.list-items-box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.list-item {
+  display: flex;
+  margin-bottom: 10px;
+}
+.time {
+  margin-right: 40px;
+}
+
+.logo-item {
+  height: 20px;
+  margin-top: 18px;
+  margin-right: 20px;
+}
+.title {
+  margin-right: 20px;
+  font-weight: 700;
+}
+.domain {
+  color: #475569;
+}
+.button {
+  background-color: transparent;
+  border-style: none;
+}
+.delete-icon {
+  height: 20px;
+  margin-right: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
